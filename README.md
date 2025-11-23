@@ -24,8 +24,7 @@ My name is Juan dos Santos Rodrigues, I am 19 years old and I am currently study
         <img 
             alt="Instagram" 
             title="follow me" 
-            src="https://img.shields.io/badge/Instagram-_-236ad3?labelColor=1155ba&style=for-the-badge&logo=instagram&logoColor=white
-            "
+            src="https://img.shields.io/badge/Instagram-_-236ad3?labelColor=1155ba&style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
 </p>
